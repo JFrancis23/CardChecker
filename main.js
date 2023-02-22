@@ -1,4 +1,5 @@
 // Element Selection:
+
 const submitButton = document.getElementById("submitButton")
 const passFail = document.getElementById("passFail")
 
